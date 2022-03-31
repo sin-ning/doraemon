@@ -15,7 +15,7 @@
 
     <properties>
         <project.version>1.0-SNAPSHOT</project.version>
-        <springboot.version>2.1.3.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <spring-boot-admin-starter-client.version>2.1.3</spring-boot-admin-starter-client.version>
         <dubbo.version>2.7.1</dubbo.version>
         <mysql-connector-java.version>5.1.46</mysql-connector-java.version>
