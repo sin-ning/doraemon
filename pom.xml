@@ -18,7 +18,7 @@
         <springboot.version>2.1.3.RELEASE</springboot.version>
         <spring-boot-admin-starter-client.version>2.1.3</spring-boot-admin-starter-client.version>
         <dubbo.version>2.7.1</dubbo.version>
-        <mysql-connector-java.version>5.1.46</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <druid.version>1.1.16</druid.version>
         <org.mapstruct.version>1.3.0.Final</org.mapstruct.version>
         <curator.version>2.13.0</curator.version>
